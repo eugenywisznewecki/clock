@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClockView">
+
+        <attr name="arrow_hour_color" format="color"></attr>
+        <attr name="arrow_minute_color" format="color"></attr>
+        <attr name="arrow_second_color" format="color"></attr>
+        <attr name="hour_watch_color" format="color"></attr>
+
+        <attr name="radius" format="integer"></attr>
+        <attr name="hour_thick" format="integer"></attr>
+        <attr name="hour_length" format="integer"></attr>
+        <attr name="min_thick" format="integer"></attr>
+        <attr name="min_length" format="integer"></attr>
+        <attr name="sec_thick" format="integer"></attr>
+        <attr name="sec_length" format="integer"></attr>
+        <attr name="clockThickness" format="integer"></attr>
+
+
+    </declare-styleable>
+
+</resources>
